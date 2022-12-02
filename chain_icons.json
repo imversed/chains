@@ -367,6 +367,14 @@
     "format": "png"
   }]
 }, {
+  "name": "polygon",
+  "icons": [{
+    "url": "ipfs://QmRNqgazYuxUa5WdddFPftTWiP3KwzBMgV9Z19QWnLMETc",
+    "width": 2000,
+    "height": 2000,
+    "format": "png"
+  }]
+}, {
   "name": "tresleches",
   "icons": [{
     "url": "ipfs://QmS33ypsZ1Hx5LMMACaJaxePy9QNYMwu4D12niobExLK74",
@@ -1332,6 +1340,14 @@
     "url": "ipfs://QmaBtaukPNNUNjdJSUAwuFFQMLbZX1Pc3fvXKTKQcds7Kf",
     "width": 104,
     "height": 80,
+    "format": "png"
+  }]
+}, {
+  "name": "avax",
+  "icons": [{
+    "url": "ipfs://QmRALA5qvQBRwWre8ofuhCbr3wxVmPS3kGetRR9uJqbqqe",
+    "width": 1503,
+    "height": 1504,
     "format": "png"
   }]
 }, {

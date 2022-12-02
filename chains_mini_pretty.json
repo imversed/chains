@@ -1529,7 +1529,7 @@
     "symbol": "Φ",
     "decimals": 18
   },
-  "rpc": ["https://connect.phi.network", ""],
+  "rpc": ["https://connect.phi.network"],
   "faucets": [],
   "infoURL": "https://phi.network"
 }, {
@@ -2157,6 +2157,19 @@
   "faucets": ["https://scan-testnet.acuteangle.com/faucet"],
   "infoURL": "https://www.acuteangle.com/"
 }, {
+  "name": "Gear Zero Network Mainnet",
+  "chainId": 516,
+  "shortName": "gz-mainnet",
+  "networkId": 516,
+  "nativeCurrency": {
+    "name": "Gear Zero Network Native Token",
+    "symbol": "GZN",
+    "decimals": 18
+  },
+  "rpc": ["https://gzn.linksme.info"],
+  "faucets": [],
+  "infoURL": "https://token.gearzero.ca/mainnet"
+}, {
   "name": "XT Smart Chain Mainnet",
   "chainId": 520,
   "shortName": "xt",
@@ -2439,7 +2452,7 @@
     "symbol": "TOPC",
     "decimals": 18
   },
-  "rpc": ["http://mainnet.openchain.info:8545", "https://mainnet1.openchain.info"],
+  "rpc": [],
   "faucets": ["https://faucet.openchain.info/"],
   "infoURL": "https://testnet.openchain.info/"
 }, {
@@ -2725,7 +2738,7 @@
     "symbol": "ETH",
     "decimals": 18
   },
-  "rpc": ["ethapi.topnetwork.org"],
+  "rpc": ["https://ethapi.topnetwork.org"],
   "faucets": [],
   "infoURL": "https://www.topnetwork.org/"
 }, {
@@ -2751,7 +2764,7 @@
     "symbol": "TOP",
     "decimals": 6
   },
-  "rpc": ["topapi.topnetwork.org"],
+  "rpc": [],
   "faucets": [],
   "infoURL": "https://www.topnetwork.org/"
 }, {
@@ -3869,7 +3882,7 @@
     "symbol": "eBTC",
     "decimals": 18
   },
-  "rpc": ["https://connect.bitcoinevm.com", ""],
+  "rpc": ["https://connect.bitcoinevm.com"],
   "faucets": [],
   "infoURL": "https://bitcoinevm.com"
 }, {
@@ -4701,7 +4714,7 @@
     "symbol": "SHM",
     "decimals": 18
   },
-  "rpc": ["https://liberty20.shardeum.org/"],
+  "rpc": [],
   "faucets": ["https://faucet.liberty20.shardeum.org"],
   "infoURL": "https://docs.shardeum.org/"
 }, {
@@ -6655,6 +6668,19 @@
   "faucets": [],
   "infoURL": "https://caduceus.foundation/"
 }, {
+  "name": "Gear Zero Network Testnet",
+  "chainId": 266256,
+  "shortName": "gz-testnet",
+  "networkId": 266256,
+  "nativeCurrency": {
+    "name": "Gear Zero Network Native Token",
+    "symbol": "GZN",
+    "decimals": 18
+  },
+  "rpc": ["https://gzn-test.linksme.info"],
+  "faucets": [],
+  "infoURL": "https://token.gearzero.ca/testnet"
+}, {
   "name": "Social Smart Chain Mainnet",
   "chainId": 281121,
   "shortName": "SoChain",
@@ -7136,7 +7162,7 @@
   "faucets": ["https://faucet.butterfly.fildev.network"],
   "infoURL": "https://filecoin.io"
 }, {
-  "name": "Imversed Canary",
+  "name": "Imversed Mainnet",
   "chainId": 5555555,
   "shortName": "imversed",
   "networkId": 5555555,
@@ -7145,7 +7171,7 @@
     "symbol": "IMV",
     "decimals": 18
   },
-  "rpc": ["https://jsonrpc-endpoint-canary.imversed.com"],
+  "rpc": ["https://jsonrpc.imversed.network", "https://ws-jsonrpc.imversed.network"],
   "faucets": [],
   "infoURL": "https://imversed.com"
 }, {
@@ -7158,7 +7184,7 @@
     "symbol": "IMV",
     "decimals": 18
   },
-  "rpc": ["https://jsonrpc-endpoint-test.imversed.com"],
+  "rpc": ["https://jsonrpc-test.imversed.network", "https://ws-jsonrpc-test.imversed.network"],
   "faucets": [],
   "infoURL": "https://imversed.com"
 }, {
